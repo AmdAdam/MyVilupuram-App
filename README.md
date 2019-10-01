@@ -1,6 +1,6 @@
 # MyVilupuram-App
 
-This App tells you everything about Viluppuram from its History,Culture,Cuisine Restuarants,Divisions,Popular Tourist Spots,Climate,Transportation, Must Try App for Tourists." 
+This App tells you everything about Viluppuram from its History, Culture,Cuisine Restuarants,Divisions,Popular Tourist Spots,Climate,Transportation, Must Try App for Tourists." 
 
 This App is Built Using HTML and CSS.  
 
